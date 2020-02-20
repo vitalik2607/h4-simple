@@ -1,0 +1,28 @@
+.title{
+    background-color: brown;
+    text-align: center;
+    color: white;
+
+}
+.image{
+    width: 100%;
+}
+.sed{
+    color: blue;
+}
+.text{
+    text-align: center;
+}
+.car{
+    text-align: center;
+}
+.machine{
+    border: dashed;
+}
+.text2{
+    text-align: center;
+    background-color: black;
+}
+.text3{
+    color: white;
+}
